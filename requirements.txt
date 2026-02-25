@@ -1,3 +1,5 @@
 streamlit
 pandas
 python-pptx
+comtypes
+pywin32
